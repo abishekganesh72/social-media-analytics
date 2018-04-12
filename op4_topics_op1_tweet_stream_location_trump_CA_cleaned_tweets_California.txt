@@ -1,0 +1,13 @@
+====================================================================================================
+Possible topics in the given data are
+====================================================================================================
+Topic 1: cnn abc harvard kvue nbcnightlynews cbsnews
+Topic 2: trump donald amp like just ryan
+Topic 3: trumprussia theresistance trumpleaks blacklivesmatter moveon womensmarch
+Topic 4: hey pay did impeachtrump russia ties
+Topic 5: realdonaldtrump potus loser amp speakerryan don
+Topic 6: trumpcare vote gop obamacare ahca dead
+Topic 7: yes neva cnn real cbs abc
+Topic 8: cnbc kremlinrussia cnn kvue abc nbcnightlynews
+Topic 9: president right mr thank trump love
+Topic 10: nunes investigation fbi cooperating surveillance camp

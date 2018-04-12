@@ -1,0 +1,13 @@
+====================================================================================================
+Possible topics in the given data are
+====================================================================================================
+Topic 1: harvard kvue cnn abc nbcnightlynews cbsnews
+Topic 2: governmentrf eng putinrf fbi newsweek abc
+Topic 3: katyperry dhsgov theellenshow cia fbiwfo zeldawilliams
+Topic 4: chelseaclinton bbcworld newsweek bbcnews kvue nbcnightlynews
+Topic 5: isis claim ilwaco dea astoria bbcworld
+Topic 6: trump donald amp president like realdonaldtrump
+Topic 7: iran bbcworld newsweek bbcworldtonight harvard cbsnews
+Topic 8: trumprussia russiagate trending keeping bc thread
+Topic 9: yes real neva cbs cnn nbc
+Topic 10: cnbc kremlinrussia kvue harvard cnn abc
